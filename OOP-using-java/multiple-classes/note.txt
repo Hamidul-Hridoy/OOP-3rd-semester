@@ -1,0 +1,9 @@
+When both files have been compiled:
+
+C:\Users\Your Name>javac Main.java
+C:\Users\Your Name>javac Second.java
+
+
+Run the Second.java file:
+
+C:\Users\Your Name>java Second
